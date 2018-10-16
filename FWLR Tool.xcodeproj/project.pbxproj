@@ -352,7 +352,7 @@
 				TargetAttributes = {
 					1D41D8D320069670001B06D2 = {
 						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						SystemCapabilities = {
 							com.apple.InterAppAudio = {
 								enabled = 1;
@@ -361,12 +361,12 @@
 					};
 					1D41D8EE20069671001B06D2 = {
 						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						TestTargetID = 1D41D8D320069670001B06D2;
 					};
 					1D41D8F920069671001B06D2 = {
 						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						TestTargetID = 1D41D8D320069670001B06D2;
 					};
 				};
